@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515177617007",
+    "project_id": "ezyrack-f4a83",
+    "storage_bucket": "ezyrack-f4a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515177617007:android:d7504a52eea4835e979f9a",
+        "android_client_info": {
+          "package_name": "com.example.ezyrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515177617007-dm8vdkmsrhua097cgk678nagpk8ltttf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezyrack",
+            "certificate_hash": "85f573d89722815cf11435650c0988b161891f85"
+          }
+        },
+        {
+          "client_id": "515177617007-53grhp5kjo19p7u00729lr8vl7k9mruh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD16VWvey2VDbQZgLo0cpgRQ5QbCivX5CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515177617007-53grhp5kjo19p7u00729lr8vl7k9mruh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
